@@ -6,7 +6,7 @@
   <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /></a>
   <a href="https://ocr.space/"><img src="https://img.shields.io/badge/-OCR-000000?style=flat-square" /></a>
   <a href="https://groq.com/"><img src="https://img.shields.io/badge/-Groq%20LLaMA%203.1-FF6F00?style=flat-square" /></a>
-  <img src="https://img.shields.io/badge/Status-Private%20Repo-red?style=flat-square" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=roshni.academic.in@gmail.com&su=Access%20Request%20-%20MediEase%20Pro"><img src="https://img.shields.io/badge/Status-Private%20Repo%20(Request%20Access)-red?style=flat-square" /></a>
 </p>
 
 🎥 [**Watch Full Demo Video**](https://github.com/user-attachments/assets/b262e090-29c9-4f23-b6bd-6f7a8f645665)
