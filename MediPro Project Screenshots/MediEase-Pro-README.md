@@ -89,4 +89,21 @@ Patients can track their own prescription history, view AI risk assessments, and
 ### 7. Pharmacy Management
 Pharmacists manage a live queue of pending prescriptions and cross-check them against the drug knowledge engine before dispensing.
 <p align="center">
-  <img
+  <img src="https://raw.githubusercontent.com/Roshni-1227/portfolio-assets/main/MediPro%20Project%20Screenshots/09-pharmacy-management.png" width="70%" />
+</p>
+
+### 8. Clinical Intelligence Analytics
+A real-time view of total scans, safe vs. caution vs. high-risk results, and analysis trends over time.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Roshni-1227/portfolio-assets/main/MediPro%20Project%20Screenshots/10-analytics-dashboard.png" width="70%" />
+</p>
+
+---
+
+## 🔒 Source Code
+
+The source code for this project is kept in a **private repository** to protect proprietary implementation details. Access can be shared on request — feel free to reach out via [LinkedIn](https://www.linkedin.com/in/roshni-k-a2855a28a) or [email](mailto:roshni.academic.in@gmail.com).
+
+---
+
+<p align="center">⬅️ <a href="https://github.com/Roshni-1227/Roshni-1227">Back to Profile</a></p>
