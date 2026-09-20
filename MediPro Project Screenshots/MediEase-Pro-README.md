@@ -2,10 +2,10 @@
 <h3 align="center">AI-Based Clinical Prescription Analysis System</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OCR-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Groq%20LLaMA%203.1-FF6F00?style=flat-square" />
+  <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /></a>
+  <a href="https://ocr.space/"><img src="https://img.shields.io/badge/-OCR-000000?style=flat-square" /></a>
+  <a href="https://groq.com/"><img src="https://img.shields.io/badge/-Groq%20LLaMA%203.1-FF6F00?style=flat-square" /></a>
   <img src="https://img.shields.io/badge/Status-Private%20Repo-red?style=flat-square" />
 </p>
 
@@ -102,7 +102,7 @@ A real-time view of total scans, safe vs. caution vs. high-risk results, and ana
 
 ## 🔒 Source Code
 
-The source code for this project is kept in a **private repository** to protect proprietary implementation details. Access can be shared on request — feel free to reach out via [LinkedIn](https://www.linkedin.com/in/roshni-k-a2855a28a) or [email](mailto:roshni.academic.in@gmail.com).
+The source code for this project is kept in a **private repository** to protect proprietary implementation details. Access can be shared on request — feel free to reach out via [LinkedIn](https://www.linkedin.com/in/roshni-k-a2855a28a) or [email](https://mail.google.com/mail/?view=cm&fs=1&to=roshni.academic.in@gmail.com).
 
 ---
 
