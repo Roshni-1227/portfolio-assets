@@ -10,7 +10,7 @@ This repository hosts screenshots, demo videos, and full case-study write-ups fo
 |---|---|---|
 | 🩺 **MediEase Pro** | AI-based clinical prescription analysis using OCR + Groq LLaMA | [Read Case Study](MediEase-Pro-README.md) |
 
-*(more projects will be added here as their case studies are published)*
+
 
 ---
 
